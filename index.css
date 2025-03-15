@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(43, 214, 226);
+}
+.hij{
+    color: brown;
+    background-color: bisque;
+}
+@media screen and ( max-width : 765px) {
+    body{
+        background-color: brown;
+    }
+    
+}
