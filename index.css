@@ -3,3 +3,14 @@
 body{
     font-family: "Poppins", sans-serif;
 }
+.carousel-caption{
+    bottom: 6.25em !important;
+}
+.para{
+    font-size: 14px;
+    text-align: center;
+}
+.buttun{
+    width: 25%;
+    height: 15%;
+}
