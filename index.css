@@ -14,3 +14,13 @@ body{
     width: 25%;
     height: 15%;
 }
+.righthalfwidth p{
+    color: #6C6C6C;
+}
+
+@media screen and ( max-width:545px) {
+    .carousel-caption{
+        bottom: 2.25em !important;
+    }
+    
+}
