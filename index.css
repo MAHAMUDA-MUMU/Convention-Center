@@ -25,11 +25,15 @@ body{
     height: 150px;
     width: 150px;
 }
+.accordpart{
+    width: 50%;
+}
 
-
-@media screen and ( max-width:545px) {
+@media screen and ( max-width:765px) {
     .carousel-caption{
         bottom: 2.25em !important;
     }
-    
+    .accordpart{
+        width: 100%;
+    }
 }
