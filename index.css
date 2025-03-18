@@ -28,6 +28,9 @@ body{
 .accordpart{
     width: 50%;
 }
+.fotimg{
+    width: 100%;
+}
 
 @media screen and ( max-width:765px) {
     .carousel-caption{
@@ -35,5 +38,8 @@ body{
     }
     .accordpart{
         width: 100%;
+    }
+    .fotimg{
+        width: 50%;
     }
 }
