@@ -17,6 +17,15 @@ body{
 .righthalfwidth p{
     color: #6C6C6C;
 }
+.cwidth{
+    width: 250px;
+}
+.avater{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
+
 
 @media screen and ( max-width:545px) {
     .carousel-caption{
