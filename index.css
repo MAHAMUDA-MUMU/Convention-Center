@@ -4,7 +4,7 @@ body{
     font-family: "Poppins", sans-serif;
 }
 .carousel-caption{
-    bottom: 6.25em !important;
+    bottom: 2.25em !important;
 }
 .para{
     font-size: 14px;
@@ -34,7 +34,7 @@ body{
 
 @media screen and ( max-width:765px) {
     .carousel-caption{
-        bottom: 2.25em !important;
+        bottom: 0.25em !important;
     }
     .accordpart{
         width: 100%;
